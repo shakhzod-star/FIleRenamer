@@ -1,0 +1,13 @@
+{
+  "name": "file_renamer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo "
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "Mominov Sarvar , Tadjiyev SHakhzod",
+  "liscense": "ISC"
+}
